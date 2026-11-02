@@ -1,10 +1,10 @@
 # Muhammad Hassan
 
-### CEO & Founder, [Algenza](https://algenza.com)
+**CEO of [Algenza](https://algenza.com)** • Pine Script & Python Developer
 
-Algorithmic trading systems developer and software engineer. Leading [Algenza](https://algenza.com) to engineer production-grade MetaTrader 5 Expert Advisors, Interactive Brokers (IBKR) automation, and execution bridges.
+I build algorithmic trading strategies, MetaTrader 5 Expert Advisors, and trade automation tools.
 
-<img src="https://readme-typing-svg.herokuapp.com?color=4ADE80&size=18&lines=CEO+%26+Founder+at+Algenza;Automated+Trading+Systems;MetaTrader+5+Expert+Advisors;IBKR+%26+Python+Execution+Bridges" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=4ADE80&size=18&lines=CEO+of+Algenza;Pine+Script+%26+Python+Developer;MetaTrader+5+Expert+Advisors;IBKR+%26+Telegram+Trading+Bridges" alt="Typing SVG" />
 
 <a href="https://rankistan.dev/#MuhammadHassanC">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMuhammadHassanC&style=for-the-badge" alt="Rankistan rank badge">
@@ -12,22 +12,22 @@ Algorithmic trading systems developer and software engineer. Leading [Algenza](h
 
 ---
 
-## About
+## About Me
 
-At [Algenza](https://algenza.com), we architect and build automated trading solutions, turning trading strategies and Pine Script into high-precision MT5 Expert Advisors, Python bridges, and execution engines.
+I run [Algenza](https://algenza.com), where I help traders automate their strategies. Most of my work involves writing custom MetaTrader 5 Expert Advisors, connecting broker APIs (Interactive Brokers, Bybit, MT5), and building backtesting tools in Python.
 
-- **CEO & Founder**: [Algenza](https://algenza.com) — Algorithmic trading software and strategy development
-- **Specializations**: MetaTrader 5 (MQL5), Interactive Brokers API, Python algorithmic trading, TradingView webhooks
-- **Portfolio**: 70+ automated trading systems, backtest engines, and FinTech integrations
+- **Website**: [algenza.com](https://algenza.com)
+- **What I build**: MT5 Expert Advisors, Python trading bots, IBKR automation, Telegram & webhook trade bridges
+- **Repositories**: 70+ trading repositories and projects here on GitHub
 
 ---
 
-## Core Capabilities
+## What I Work With
 
-- **Algorithmic Trading & FinTech**: MT5 Expert Advisors, Interactive Brokers (TWS API), Pine Script conversion
-- **Execution Infrastructure**: Low-latency signal execution bridges, Telegram/Webhook-to-MT5 execution
-- **Full-Stack Engineering**: Python, TypeScript, React, Next.js, FastAPI
-- **Quantitative Tooling**: Backtesting frameworks, tick-level data processing, automated risk controls
+- **Trading Platforms**: MetaTrader 5 (MQL5), TradingView (Pine Script), Interactive Brokers (TWS / ib_insync)
+- **Languages**: Python, Pine Script, MQL5, JavaScript, TypeScript
+- **Web & Backend**: FastAPI, Node.js, React, Next.js, PostgreSQL
+- **Tools**: Git, Docker, Linux VPS
 
 ---
 
@@ -47,9 +47,10 @@ At [Algenza](https://algenza.com), we architect and build automated trading solu
 
 ---
 
-## Connect & Inquiries
+## Contact
 
 - **Website**: [algenza.com](https://algenza.com)
+- **Email**: muhammadhassanchanna8@gmail.com
 - **LinkedIn**: [Muhammad Hassan](https://www.linkedin.com/in/muhammad-hassan-c-657545362)
 - **GitHub**: [@MuhammadHassanC](https://github.com/MuhammadHassanC)
 - **X (Twitter)**: [@c615691](https://x.com/c615691)
@@ -57,4 +58,4 @@ At [Algenza](https://algenza.com), we architect and build automated trading solu
 
 ---
 
-> Muhammad Hassan — CEO & Founder, Algenza. Building scalable, high-performance trading systems.
+> Muhammad Hassan — CEO of Algenza
